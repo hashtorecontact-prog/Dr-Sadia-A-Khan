@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Ultrasound Diagnostic Monitor -->
+  <rect x="34" y="28" width="96" height="72" rx="12" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.8"/>
+  <rect x="44" y="38" width="76" height="44" rx="6" fill="#087F8C"/>
+  <!-- Ultrasound Sector Scan Fan -->
+  <path d="M82 42l-26 34a42 42 0 0 0 52 0L82 42z" fill="#00A6B7" fill-opacity="0.32" stroke="#E7F5F6" stroke-width="1.5"/>
+  <circle cx="86" cy="64" r="6" fill="#FFFFFF" fill-opacity="0.85"/>
+  <path d="M62 110h40M82 100v10" stroke="#008C9E" stroke-width="3" stroke-linecap="round"/>
+  <!-- Handheld Ultrasound Transducer Probe & Waves -->
+  <path d="M168 32h16l4 24c1 6-3 11-12 11s-13-5-12-11l4-24z" fill="#FFFFFF" stroke="#087F8C" stroke-width="2.6"/>
+  <path d="M176 20v12" stroke="#008C9E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M164 78c7 5 17 5 24 0M156 90c11 8 29 8 40 0M148 102c15 11 41 11 56 0" stroke="#00A6B7" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Checklist Tick -->
+  <circle cx="176" cy="122" r="11" fill="#FFFFFF" stroke="#008C9E" stroke-width="2"/>
+  <path d="M171 122l3.5 3.5 6.5-7" stroke="#008C9E" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

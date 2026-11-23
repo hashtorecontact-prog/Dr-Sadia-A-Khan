@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', 'Hind Siliguri', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #F8FAFC;
+    color: #172B35;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  button,
+  button *,
+  a,
+  a *,
+  [role="button"],
+  .cursor-pointer,
+  input[type="submit"],
+  input[type="checkbox"],
+  select {
+    cursor: pointer !important;
+  }
+
+  button,
+  .btn {
+    border-radius: 12px;
+    transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1),
+                box-shadow 200ms cubic-bezier(0.16, 1, 0.3, 1),
+                background-color 200ms ease,
+                border-color 200ms ease,
+                color 200ms ease;
+  }
+
+  button:active:not(:disabled),
+  .btn:active:not(:disabled) {
+    transform: scale(0.98);
+  }
+}
+
+.num-font {
+  font-family: 'Plus Jakarta Sans', 'Roboto', sans-serif !important;
+  font-variant-numeric: tabular-nums;
+}
+
+.bg-surgical-grid {
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(0, 140, 158, 0.08) 1px, transparent 0);
+  background-size: 28px 28px;
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float-slow {
+  animation: floatSlow 5.5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Mobile-only compact sizing */
+@media (max-width: 640px) {
+  main .btn-compact {
+    padding: 0.625rem 1rem !important;
+    font-size: 0.85rem !important;
+    border-radius: 10px !important;
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Anatomical Breast Contour -->
+  <path d="M62 34c-6 26-8 46-2 64 6 18 22 28 40 28 19 0 34-12 37-30 3-17-4-34-14-46-11-13-17-22-18-32" fill="#FFFFFF" stroke="#008C9E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="84" r="14" fill="#E7F5F6" stroke="#00A6B7" stroke-width="2" stroke-dasharray="4 3"/>
+  <circle cx="96" cy="84" r="5" fill="#008C9E"/>
+  <!-- Surgical Precision Crosshair & Shield -->
+  <path d="M162 42l24 9v21c0 17-10 31-24 38-14-7-24-21-24-38V51l24-9z" fill="#FFFFFF" stroke="#087F8C" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M162 63v18M153 72h18" stroke="#00A6B7" stroke-width="3" stroke-linecap="round"/>
+  <!-- Awareness Ribbon Accent -->
+  <path d="M198 30c8 0 13 6 13 13 0 9-10 19-20 31m14-31c-7 9-17 20-21 31" stroke="#008C9E" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

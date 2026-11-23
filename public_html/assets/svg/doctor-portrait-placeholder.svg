@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" fill="none" role="img" aria-label="Professor Dr. Sadia Armin Khan Portrait Placeholder">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="400" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E7F5F6"/>
+      <stop offset="100%" stop-color="#DCE7EA"/>
+    </linearGradient>
+    <linearGradient id="coatGrad" x1="200" y1="260" x2="200" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="480" rx="20" fill="url(#bgGrad)"/>
+  <circle cx="330" cy="70" r="90" fill="#00A6B7" fill-opacity="0.08"/>
+  <circle cx="60" cy="410" r="110" fill="#008C9E" fill-opacity="0.07"/>
+  <!-- Medical Cross Subtle Watermark -->
+  <path d="M315 38h14v16h16v14h-16v16h-14V68h-16V54h16V38z" fill="#008C9E" fill-opacity="0.15"/>
+  <!-- Silhouette / Portrait Placeholder -->
+  <path d="M85 480c0-82 51-138 115-138s115 56 115 138H85z" fill="url(#coatGrad)" stroke="#CBD5E1" stroke-width="2"/>
+  <!-- Inner Teal Scrubs Collar -->
+  <path d="M168 342l32 52 32-52" fill="#008C9E" fill-opacity="0.15" stroke="#008C9E" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Head & Hijab/Hair Professional Frame -->
+  <circle cx="200" cy="215" r="68" fill="#087F8C" fill-opacity="0.16" stroke="#087F8C" stroke-width="2"/>
+  <circle cx="200" cy="210" r="46" fill="#FFFFFF" stroke="#008C9E" stroke-width="2"/>
+  <!-- Stethoscope -->
+  <path d="M150 350c-12 24-10 56 8 76 14 15 38 18 56 8" stroke="#087F8C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M250 350c12 24 10 56-8 76" stroke="#087F8C" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="218" cy="434" r="10" fill="#00A6B7" stroke="#FFFFFF" stroke-width="3"/>
+  <!-- Placeholder Label -->
+  <rect x="60" y="424" width="280" height="36" rx="8" fill="#172B35" fill-opacity="0.86"/>
+  <text x="200" y="447" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="600">Doctor Portrait Placeholder (Replace Photo)</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Abdominal Keyhole Field & Gallbladder Silhouette -->
+  <circle cx="120" cy="82" r="46" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.6"/>
+  <!-- Gallbladder + Stones -->
+  <path d="M132 62c12 0 22 10 22 23 0 14-12 23-24 23-9 0-16-6-16-14 0-11 7-18 11-24 2-5 4-8 7-8z" fill="#E7F5F6" stroke="#087F8C" stroke-width="2.4"/>
+  <circle cx="132" cy="90" r="4.5" fill="#008C9E"/>
+  <circle cx="141" cy="85" r="3.5" fill="#00A6B7"/>
+  <!-- Laparoscope Optical Light Cone & Keyhole Trocars -->
+  <path d="M50 24l46 46" stroke="#087F8C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M96 70l28 4-10 20-18-24z" fill="#00A6B7" fill-opacity="0.22"/>
+  <path d="M190 24l-42 42" stroke="#008C9E" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="76" cy="50" r="5" fill="#FFFFFF" stroke="#00A6B7" stroke-width="2.2"/>
+  <circle cx="164" cy="50" r="5" fill="#FFFFFF" stroke="#00A6B7" stroke-width="2.2"/>
+</svg>

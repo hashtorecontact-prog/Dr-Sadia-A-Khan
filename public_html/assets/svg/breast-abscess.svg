@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Tissue Layer & Localized Abscess Pocket -->
+  <path d="M36 96c24-26 52-34 78-22 20 9 34 22 60 22" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M36 96v26h138v-26" fill="#FFFFFF"/>
+  <circle cx="96" cy="96" r="18" fill="#00A6B7" fill-opacity="0.2" stroke="#087F8C" stroke-width="2.4" stroke-dasharray="4 3"/>
+  <circle cx="96" cy="96" r="8" fill="#008C9E" fill-opacity="0.65"/>
+  <!-- Precision Needle Aspiration / Drainage Syringe -->
+  <path d="M150 28l18 18-42 42-18-18 42-42z" fill="#FFFFFF" stroke="#087F8C" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M117 79l-17 17" stroke="#087F8C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M159 37l12-12M165 21l12 12" stroke="#008C9E" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M132 46l8 8M124 54l8 8" stroke="#00A6B7" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sterile Recovery Shield -->
+  <path d="M196 48l18 7v16c0 13-8 24-18 29-10-5-18-16-18-29V55l18-7z" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.4"/>
+  <path d="M190 74l4 4 9-9" stroke="#00A6B7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

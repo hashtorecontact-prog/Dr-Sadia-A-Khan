@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Lower Rectal Canal Cross-Section -->
+  <path d="M74 26c0 28-10 48-10 66 0 18 14 30 30 34h12c16-4 30-16 30-34 0-18-10-38-10-66" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M90 28c0 28-6 48-6 66 0 10 6 18 16 20 10-2 16-10 16-20 0-18-6-38-6-66" fill="#E7F5F6" stroke="#00A6B7" stroke-width="2"/>
+  <!-- Swollen Vascular Cushion vs Treated Relief -->
+  <circle cx="80" cy="96" r="9" fill="#008C9E" fill-opacity="0.25" stroke="#087F8C" stroke-width="2"/>
+  <circle cx="120" cy="96" r="6" fill="#00A6B7" fill-opacity="0.3" stroke="#008C9E" stroke-width="2"/>
+  <!-- Minimally Invasive Laser / Gentle Relief Indicator -->
+  <rect x="150" y="34" width="58" height="82" rx="14" fill="#FFFFFF" stroke="#008C9E" stroke-width="2.4"/>
+  <path d="M164 62h30M164 78h22" stroke="#008C9E" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="179" cy="48" r="7" fill="#00A6B7" fill-opacity="0.25" stroke="#00A6B7" stroke-width="2"/>
+  <path d="M167 98l7 7 15-15" stroke="#087F8C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

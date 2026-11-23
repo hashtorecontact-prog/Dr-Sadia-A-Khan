@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" fill="none">
+  <rect width="240" height="150" rx="18" fill="#E7F5F6"/>
+  <path d="M20 35h200M20 75h200M20 115h200M60 15v120M120 15v120M180 15v120" stroke="#008C9E" stroke-opacity="0.08" stroke-width="1"/>
+  <!-- Anatomical Large Intestine / Colon Silhouette -->
+  <path d="M62 112c-10 0-16-8-16-18V54c0-14 10-22 24-22h100c14 0 24 8 24 22v36c0 14-10 22-24 22h-32c-10 0-18 6-18 16v6" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 112c-10 0-16-8-16-18V54c0-14 10-22 24-22h100c14 0 24 8 24 22v36c0 14-10 22-24 22h-32c-10 0-18 6-18 16v6" fill="none" stroke="#008C9E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Haustra Segment Lines -->
+  <path d="M84 25v14M120 25v14M156 25v14M40 66h12M188 66h12" stroke="#00A6B7" stroke-width="2" stroke-linecap="round"/>
+  <!-- Colorectal Care Diagnostic Lens -->
+  <circle cx="152" cy="76" r="19" fill="#FFFFFF" fill-opacity="0.92" stroke="#087F8C" stroke-width="2.6"/>
+  <path d="M144 76h16M152 68v16" stroke="#00A6B7" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M166 90l14 14" stroke="#087F8C" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
